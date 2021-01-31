@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1579778377 source:c:\users\pc-lylian\desktop\cours\c\tp_c\test qr\main.c
+	<stdbool.h>
+	<stddef.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"qrcodegen.h"
+	"qrcodegen.c"
+
+1578767172 c:\users\pc-lylian\desktop\cours\c\tp_c\test qr\qrcodegen.h
+	<stdbool.h>
+	<stddef.h>
+	<stdint.h>
+
+1578767172 c:\users\pc-lylian\desktop\cours\c\tp_c\test qr\qrcodegen.c
+	<assert.h>
+	<limits.h>
+	<stdlib.h>
+	<string.h>
+	"qrcodegen.h"
+
+1580680048 source:d:\codeblocks\2ème année\qrcode\main.c
+	<stdbool.h>
+	<stddef.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"qrcodegen.h"
+	"qrcodegen.c"
+	<stdint.h>
+	<malloc.h>
+
+1578767172 d:\codeblocks\2ème année\qrcode\qrcodegen.h
+	<stdbool.h>
+	<stddef.h>
+	<stdint.h>
+
+1578767172 d:\codeblocks\2ème année\qrcode\qrcodegen.c
+	<assert.h>
+	<limits.h>
+	<stdlib.h>
+	<string.h>
+	"qrcodegen.h"
+
